@@ -1,3 +1,3 @@
 library ethereum_address;
 
-export "src/address.dart";
+export 'src/address.dart';
